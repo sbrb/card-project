@@ -1,0 +1,20 @@
+{
+  "name": "card-project",
+  "version": "1.0.0",
+  "description": "car-project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Shayan Biswas",
+  "license": "ISC",
+  "dependencies": {
+    "dot": "^1.1.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
