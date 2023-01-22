@@ -9,7 +9,6 @@
   "author": "Shayan Biswas",
   "license": "ISC",
   "dependencies": {
-    "dot": "^1.1.3",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "moment": "^2.29.4",
